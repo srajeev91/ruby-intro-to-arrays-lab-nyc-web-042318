@@ -3,5 +3,6 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  return my_new_array = ["koala", "elephant"]
+  my_two_array = ["koala", "elephant"]
+  return my_two_array
 end
