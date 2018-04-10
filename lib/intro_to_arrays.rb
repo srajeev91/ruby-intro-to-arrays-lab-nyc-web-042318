@@ -29,4 +29,5 @@ end
 
 def length_of_array
   i = 0
+  while array
   
