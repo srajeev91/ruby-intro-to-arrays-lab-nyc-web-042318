@@ -30,7 +30,7 @@ end
 def length_of_array(array)
   i = 0
   while array[i] != nil
-    i++
+    i +=1
   end
   return i
 end  
